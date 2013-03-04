@@ -102,7 +102,7 @@ class KeychainManager extends JApplicationCli
 	 *
 	 * @return  void
 	 *
-	 * @since   12.3
+	 * @since   12.3 ugesh
 	 */
 	protected function loadKeychain()
 	{
